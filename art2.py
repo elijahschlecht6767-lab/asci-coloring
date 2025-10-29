@@ -11,7 +11,7 @@ def clear_screen():
 
 
 def main():
-    reset=Colors.RESET
+    reset=Colors.BLACK
     red=Colors.RED
     yellow=Colors.YELLOW
     green=Colors.GREEN
